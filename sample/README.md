@@ -1,3 +1,3 @@
 ## サンプル
 
-実際に生成した名刺のサンプルPDFは、[`sample` フォルダ](./sample/)から確認できます。
+実際に生成した名刺のサンプルPDFは、[`sample/meishi_sample.pdf`](./sample/meishi_sample.pdf) から確認できます。
