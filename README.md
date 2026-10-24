@@ -27,7 +27,7 @@ Pythonを使用して、入力した会社名・役職・氏名・住所・電�
 
 ## サンプル
 
-生成した名刺のサンプルは、[`sample/meishi_sample.PDF`](./sample/meishi_sample.PDF) から確認できます。
+生成した名刺のサンプルは、[`sample/meishi_sample.pdf`](./sample/meishi_sample.pdf) から確認できます。
 
 ## 実行方法
 
